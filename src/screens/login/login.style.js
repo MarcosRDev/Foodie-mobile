@@ -1,0 +1,1 @@
+import { Colors,font_size } from "react-native/Libraries/NewAppScreen";
